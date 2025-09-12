@@ -13,127 +13,82 @@ Vous trouverez ici les repo des projets que j'ai effectué durant mon cursus.
 </p>
 
 <h2 align="left">Projets réalisés</h2>
+
 <!-- Cercle 0 -->
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: space-between; width: 700px; align-items: center;">
-    <div style="text-align: left; min-width: 300px;">
-      <h3 style="margin: 0;">Cercle 0 – Projets d’introduction</h3>
-    </div>
-    <div style="display: flex; justify-content: center; gap: 20px; width: 340px;">
-      <a href="https://github.com/Bastien-32/42-libft">
-        <img src="images/libft.png" alt="libft" width="100"/>
-      </a>
-    </div>
-  </div>
+<div align="center">
+	<h3>Cercle 0 – Projets d’introduction</h3>
+	<a href="https://github.com/Bastien-32/42-libft">
+		<img src="images/libft.png" alt="libft" width="100"/>
+	</a>
 </div>
-
 <!-- Cercle 1 -->
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: space-between; width: 700px; align-items: center;">
-    <div style="text-align: left; min-width: 300px;">
-      <h3 style="margin: 0;">Cercle 1 – Manipulation bas niveau</h3>
-    </div>
-    <div style="display: flex; justify-content: center; gap: 20px; width: 340px;">
-      <a href="https://github.com/Bastien-32/42-get_next_line">
-        <img src="images/gnl.png" alt="get_next_line" width="100"/>
-      </a>
-      <a href="https://github.com/Bastien-32/42-ft_printf">
-        <img src="images/ft_printf.png" alt="ft_printf" width="100"/>
-      </a>
-      <a href="https://github.com/Bastien-32/42-Born2beRoot">
-        <img src="images/B2BR.png" alt="Borntoberoot" width="100"/>
-      </a>
-    </div>
-  </div>
+<div align="center">
+	<h3>Cercle 1 – Manipulation bas niveau</h3>
+	<a href="https://github.com/Bastien-32/42-get_next_line">
+		<img src="images/gnl.png" alt="get_next_line" width="100"/>
+	</a>
+	<a href="https://github.com/Bastien-32/42-ft_printf">
+		<img src="images/ft_printf.png" alt="ft_printf" width="100"/>
+	</a>
+	<a href="https://github.com/Bastien-32/42-Born2beRoot">
+		<img src="images/B2BR.png" alt="Born2beRoot" width="100"/>
+	</a>
 </div>
-
 <!-- Cercle 2 -->
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: space-between; width: 700px; align-items: center;">
-    <div style="text-align: left; min-width: 300px;">
-      <h3 style="margin: 0;">Cercle 2 – Algorithmes et communication</h3>
-    </div>
-    <div style="display: flex; justify-content: center; gap: 20px; width: 340px;">
-      <a href="https://github.com/Bastien-32/42-Push_swap">
-        <img src="images/push_swap.png" alt="push_swap" width="100"/>
-      </a>
-      <a href="https://github.com/Bastien-32/42-Minitalk">
-        <img src="images/minitalk.png" alt="minitalk" width="100"/>
-      </a>
-      <a href="https://github.com/Bastien-32/42-So_Long">
-        <img src="images/So_long.png" alt="so_long" width="100"/>
-      </a>
-    </div>
-  </div>
+<div align="center">
+<h3>Cercle 2 – Algorithmes et communication</h3>
+	<a href="https://github.com/Bastien-32/42-Push_swap">
+		<img src="images/push_swap.png" alt="push_swap" width="100"/>
+	</a>
+	<a href="https://github.com/Bastien-32/42-Minitalk">
+		<img src="images/minitalk.png" alt="minitalk" width="100"/>
+	</a>
+	<a href="https://github.com/Bastien-32/42-So_Long">
+		<img src="images/So_long.png" alt="so_long" width="100"/>
+	</a>
 </div>
-
 <!-- Cercle 3 -->
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: space-between; width: 700px; align-items: center;">
-    <div style="text-align: left; min-width: 300px;">
-      <h3 style="margin: 0;">Cercle 3 – Processus & Shell</h3>
-    </div>
-    <div style="display: flex; justify-content: center; gap: 20px; width: 340px;">
-      <a href="https://github.com/Bastien-32/42-Philosophers">
-        <img src="images/philo.png" alt="philosophers" width="100"/>
-      </a>
-      <a href="https://github.com/Bastien-32/42-Minishell">
-        <img src="images/minishell.png" alt="minishell" width="100"/>
-      </a>
-    </div>
-  </div>
+<div align="center">
+	<h3>Cercle 3 – Processus & Shell</h3>
+	<a href="https://github.com/Bastien-32/42-Philosophers">
+		<img src="images/philo.png" alt="philosophers" width="100"/>
+	</a>
+	<a href="https://github.com/Bastien-32/42-Minishell">
+		<img src="images/minishell.png" alt="minishell" width="100"/>
+	</a>
 </div>
-
 <!-- Cercle 4 -->
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: space-between; width: 700px; align-items: center;">
-    <div style="text-align: left; min-width: 300px;">
-      <h3 style="margin: 0;">Cercle 4 – Réseaux et Graphismes</h3>
-    </div>
-    <div style="display: flex; justify-content: center; gap: 20px; width: 340px;">
-      <a href="https://github.com/Bastien-32/42-net_practice">
-        <img src="images/net_practice.png" alt="net_practice" width="100"/>
-      </a>
-      <a href="https://github.com/Bastien-32/42-cub3d">
-        <img src="images/cub3d.png" alt="cub3d" width="100"/>
-      </a>
-    </div>
-  </div>
+<div align="center">
+	<h3>Cercle 4 – Réseaux et Graphismes</h3>
+	<a href="https://github.com/Bastien-32/42-net_practice">
+		<img src="images/net_practice.png" alt="net_practice" width="100"/>
+	</a>
+	<a href="https://github.com/Bastien-32/42-cub3d">
+		<img src="images/cub3d.png" alt="cub3d" width="100"/>
+	</a>
 </div>
-
 <!-- Cercle 6 -->
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: space-between; width: 700px; align-items: center;">
-    <div style="text-align: left; min-width: 300px;">
-      <h3 style="margin: 0;">Cercle 6 – CPP, docker, Web & Fullstack</h3>
-    </div>
-    <div style="display: flex; justify-content: center; gap: 20px; width: 340px;">
-      <a href="https://github.com/Bastien-32/42-cpp">
-        <img src="images/cpp1.png" alt="cpp" width="100"/>
-      </a>
-      <!-- <a href="#">
-        <img src="images/inception.png" alt="inception" width="100"/>
-      </a>
-      <a href="#">
-        <img src="images/webserv.png" alt="webserv" width="100"/>
-      </a> -->
-    </div>
-  </div>
+<div align="center">
+	<h3>Cercle 6 – CPP, docker, Web & Fullstack</h3>
+	<a href="https://github.com/Bastien-32/42-cpp">
+		<img src="images/cpp1.png" alt="cpp" width="100"/>
+	</a>
+	<!--
+	<a href="#">
+		<img src="images/inception.png" alt="inception" width="100"/>
+	</a>
+	<a href="#">
+		<img src="images/webserv.png" alt="webserv" width="100"/>
+	</a>
+	-->
 </div>
-
-<!-- Cercle 7 – Projet final -->
+<!-- Cercle 7 (projet final) - en commentaire -->
 <!--
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: space-between; width: 700px; align-items: center;">
-    <div style="text-align: left; min-width: 300px;">
-      <h3 style="margin: 0;">Cercle 7 – Projet final</h3>
-    </div>
-    <div style="display: flex; justify-content: center; gap: 20px; width: 340px;">
-      <a href="#">
-        <img src="images/transcendance.png" alt="transcendance" width="100"/>
-      </a>
-    </div>
-  </div>
+<div align="center">
+	<h3>Cercle 7 – Projet final</h3>
+	<a href="#">
+		<img src="images/transcendance.png" alt="transcendance" width="100"/>
+	</a>
 </div>
 -->
 
