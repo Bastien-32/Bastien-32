@@ -67,9 +67,9 @@ Vous trouverez ici les repo des projets que j'ai effectué durant mon cursus.
 		<img src="images/cub3d.png" alt="cub3d" width="100"/>
 	</a>
 </div>
-<!-- Cercle 6 -->
+<!-- Cercle 5 -->
 <div align="center">
-	<h3>Cercle 6 – CPP, docker, Web & Fullstack</h3>
+	<h3>Cercle 5 – CPP, docker, server web htpp</h3>
 	<a href="https://github.com/Bastien-32/42-cpp">
 		<img src="images/cpp1.png" alt="cpp" width="100"/>
 	</a>
@@ -80,10 +80,10 @@ Vous trouverez ici les repo des projets que j'ai effectué durant mon cursus.
 		<img src="images/webserv.png" alt="webserv" width="100"/>
 	</a>
 </div>
-<!-- Cercle 7 (projet final) - en commentaire -->
+<!-- Cercle 6 (projet final) - en commentaire -->
 <!--
 <div align="center">
-	<h3>Cercle 7 – Projet final</h3>
+	<h3>Cercle 6 – Projet final</h3>
 	<a href="#">
 		<img src="images/transcendance.png" alt="transcendance" width="100"/>
 	</a>
