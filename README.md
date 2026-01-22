@@ -73,14 +73,12 @@ Vous trouverez ici les repo des projets que j'ai effectué durant mon cursus.
 	<a href="https://github.com/Bastien-32/42-cpp">
 		<img src="images/cpp1.png" alt="cpp" width="100"/>
 	</a>
-	<!--
-	<a href="#">
+	<a href="https://github.com/Bastien-32/42-inception">
 		<img src="images/inception.png" alt="inception" width="100"/>
 	</a>
-	<a href="#">
+	<a href="https://github.com/Bastien-32/42-Webserv">
 		<img src="images/webserv.png" alt="webserv" width="100"/>
 	</a>
-	-->
 </div>
 <!-- Cercle 7 (projet final) - en commentaire -->
 <!--
